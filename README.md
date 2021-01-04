@@ -12,10 +12,6 @@ Most of my desk time is spent cranking out code for my day job, but I also enjoy
 I also enjoy tinkering with javascript games, usually during [js13k](http://js13kgames.com/) every August -- you can see some of my past projects below.
 
 <!--
-**elliot-nelson/elliot-nelson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
