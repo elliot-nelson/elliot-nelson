@@ -9,7 +9,7 @@ Most of my desk time is spent working for "the man", but I also enjoy contributi
 - [prompts](https://github.com/terkelg/prompts)
 - and more!
 
-I also enjoy tinkering with javascript games - check out [js13k](http://js13kgames.com/) every August!
+I also enjoy tinkering with javascript games, usually during [js13k](http://js13kgames.com/) every August -- you can see some of my past projects below.
 
 <!--
 **elliot-nelson/elliot-nelson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
