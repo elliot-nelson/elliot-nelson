@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hello!
+
+My name is Elliot Nelson, and I'm a full-time remote software engineer.
+
+Most of my desk time is spent working for "the man", but I also enjoy contributing to open-source projects, especially CLI-related projects like:
+
+- [jasmine](https://github.com/jasmine/jasmine)
+- [sywac](https://github.com/sywac/sywac)
+- [prompts](https://github.com/terkelg/prompts)
+- and more!
+
+I also enjoy tinkering with javascript games - check out [js13k](http://js13kgames.com/) every August!
 
 <!--
 **elliot-nelson/elliot-nelson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
