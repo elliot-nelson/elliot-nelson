@@ -1,15 +1,16 @@
 ### Hello!
 
-My name is Elliot Nelson, and I'm a full-time remote software engineer.
+:zap: My name is Elliot Nelson, and I'm a software engineer dedicated to improving developer experiences through tooling & build processes.
 
-Most of my desk time is spent cranking out code for my day job, but I also enjoy contributing to open-source projects, especially CLI-related projects like:
+:zap: Most of my desk time is spent cranking out code for my day job, but I also enjoy contributing to open-source projects, especially CLI-related and build-related projects like:
 
+- [rushstack](https://github.com/microsoft/rushstack)
+- [jasmine](https://github.com/jasmine/jasmine)
 - [sywac](https://github.com/sywac/sywac)
 - [prompts](https://github.com/terkelg/prompts)
-- [jasmine](https://github.com/jasmine/jasmine)
 - and more!
 
-I also enjoy tinkering with javascript games, usually during [js13k](http://js13kgames.com/) every August -- you can see some of my past projects below.
+⚡ I also enjoy tinkering with javascript games, usually during [js13k](http://js13kgames.com/) every August -- you can see some of my past projects below.
 
 <!--
 - 🔭 I’m currently working on ...
